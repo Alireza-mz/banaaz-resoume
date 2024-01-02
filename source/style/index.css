@@ -1130,4 +1130,11 @@ line-height: normal;
         width: 100%;
         gap: 24px;
     }
+    .login-dashboard {
+        display: none;
+        
+    }
+    .download-application {
+        display: none;
+    }
 }
